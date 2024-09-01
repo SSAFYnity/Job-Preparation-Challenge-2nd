@@ -30,7 +30,7 @@ SSAFYnity 동문회원을 위해 주기적으로 운영하는 취준챌린지! <
 | Commit Message | <풀이여부> <문제명> - <실행시간>ms <메모리>mb | - 풀이여부 : (성공 시) solved, (실패 시) unsolved<br>전체 실행시간과 메모리가 나오지 않는 경우, 각 최대 값을 써주세요.<br>추가적으로 남기실 사항은 자유롭게 가능합니다. |
 | Folder | /<사이트명> | - 사이트명:- 백준 : Baekjoon<br>- 코드트리 : CodeTree<br>- SW Expert Academy : SWEA<br>- 프로그래머스 : Programmers |
 | File | <문제명>_<본인이름>.<확장자> | 특수기호, 문제번호, 공백 없이 문제 이름 그대로 작성합니다.<br>- 아기상어_김싸피.java<br>- 돌아가는팔각의자_김싸피.py<br>- 문자열세개_김싸피.cpp |
-| Pull Request 제목 | <문제명> | 본문에는 트래킹이 될 수 있도록 꼭 이슈번호를 기재해주세요. |
+| Pull Request 제목 | Commit Message와 동일 | 본문에는 트래킹이 될 수 있도록 꼭 이슈번호를 기재해주세요. |
 
 <br> 
 
