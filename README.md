@@ -54,7 +54,6 @@ SSAFYnity 동문회원을 위해 주기적으로 운영하는 취준챌린지! <
 |PR Assignees | Pull Request를 요청한 사람에게 자동 할당 |
 |PR Label | Pull Request 요청으로 등록된 파일을 확인해 언어별 Label을 자동 할당 |
 |PR Reviwers | 챌린지 참여 시, 제출해주신 언어 조사에 따라 자동 랜덤 할당 |
-|Issue 연결 | 제목 양식이 맞추면, 자동으로 Issue와 매핑 |
 
 <br> 
 
