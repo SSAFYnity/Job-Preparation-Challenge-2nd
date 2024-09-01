@@ -16,6 +16,7 @@ SSAFYnity 동문회원을 위해 주기적으로 운영하는 취준챌린지! <
 4. Merge 조건은 다음과 같습니다.
    - (코드리뷰 미희망자) Pull Request를 Open한지 7일을 초과하는 시점
    - (코드리뷰 희망자) 최소 2개 이상의 리뷰를 받은 경우 or Pull Request를 Open한지 7일을 초과하는 시점
+5. Merge가 되면, 사용한 branch는 꼭 삭제해주세요.
 
 <br> 
 
@@ -76,5 +77,5 @@ SSAFYnity 동문회원을 위해 주기적으로 운영하는 취준챌린지! <
 | Java 1팀 | `@likelasttime`, `@Sigmaflo`, `@azsxmous`, `@sminju1009`, `@ljseo` |
 | Java 2팀 | `@kgh2120`, `@aysul0@naver.com`, `@souk0712`, `@dalcheonroadhead` |
 | Java 3팀 | `@Jade-Good`, `@Ryujy`, `@ParkSeolDev`, `@choe-jaeseong` |
-| Java 4팀 | `@DongHyun22`, `@tkdfhrtnalsgh@hanmail.net`, `@duckddud213`, `@serotonins` |
+| Java 4팀 | `@DongHyun22`, `@BNO0`, `@duckddud213`, `@serotonins` |
 | Java 5팀 | `@KangHyojin1401`, `@daehwa-park`, `@diarlee`, `@skyungg` |
