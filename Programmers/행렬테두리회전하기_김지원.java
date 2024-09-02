@@ -52,7 +52,6 @@ class Solution {
 
             map[row][col] = tmp[i];
         }
-
         Arrays.sort(tmp);
         return tmp[0];
     }
