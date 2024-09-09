@@ -28,9 +28,10 @@ SSAFYnity 동문회원을 위해 주기적으로 운영하는 취준챌린지! <
 | :---: | :---: | :--- |
 | Branch | <본인이름>_<문제명> | 1주일 동안 최소 5개의 branch가 나와야 합니다. |
 | Commit Message | <풀이여부> <문제명> - <실행시간>ms <메모리>mb | - 풀이여부 : (성공 시) solved, (실패 시) unsolved<br>전체 실행시간과 메모리가 나오지 않는 경우, 각 최대 값을 써주세요.<br>추가적으로 남기실 사항은 자유롭게 가능합니다. |
-| Folder | /<사이트명> | - 사이트명:- 백준 : Baekjoon<br>- 코드트리 : CodeTree<br>- SW Expert Academy : SWEA<br>- 프로그래머스 : Programmers |
+| Folder | /<사이트명>/<문제명> | 1. 사이트명:- 백준 : Baekjoon<br>- 코드트리 : CodeTree<br>- SW Expert Academy : SWEA<br>- 프로그래머스 : Programmers<br>2. 문제명 : 특수기호, 문제번호, 공백 없이 문제 이름 그대로 작성합니다. |
 | File | <문제명>_<본인이름>.<확장자> | 특수기호, 문제번호, 공백 없이 문제 이름 그대로 작성합니다.<br>- 아기상어_김싸피.java<br>- 돌아가는팔각의자_김싸피.py<br>- 문자열세개_김싸피.cpp |
 | Pull Request 제목 | Commit Message와 동일 | 본문에는 트래킹이 될 수 있도록 꼭 이슈번호를 기재해주세요. |
+* 헷갈리지 않도록, 또 잘 정돈될 수 있도록 문제 폴더와 README.md를 제공해드릴 예정입니다.
 
 <br> 
 

@@ -28,7 +28,7 @@ async function run() {
     const { owner, repo } = context.repo;
     const pull_number = context.issue.number;
 
-    reviewers = findTeamMembers(reviwerTeam, author);
+    reviewers = findTeamMembers(reviwerTeam.split('|').map(team => team.split(',')), author);
     console.log(reviewers);
 
     if (reviewers.length > 0) {
