@@ -4,7 +4,7 @@ import java.util.*;
 public class 적록색약_김수빈 {
 
     public static void main(String[] args) throws IOException {
-        // Scanner보다 빠르다고 함 (외우자)
+        // Scanner보다 빠르다고 함
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         int N = Integer.parseInt(br.readLine());  // 행렬 길이
         // 적록색약 보드판
