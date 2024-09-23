@@ -1,11 +1,11 @@
 import java.util.Scanner;
 
-public class 극장좌석_강민정 {
+public class Main {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();       // 1 <= 좌석 개수 <= 40
         int m = sc.nextInt();       // 0 <= 고정석 개수 <= N
-        int[] dp = new int[n + 1];
+        int[] dp = new int[41];
         int answer = 1;     // 좌석에 앉을 수 있는 방법의 가짓수
         int start = 0;
 
