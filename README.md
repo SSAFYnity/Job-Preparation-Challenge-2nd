@@ -79,3 +79,6 @@ SSAFYnity 동문회원을 위해 주기적으로 운영하는 취준챌린지! <
 | Java 3팀 | `@Jade-Good`, `@Ryujy`, `@ParkSeolDev`, `@choe-jaeseong` |
 | Java 4팀 | `@DongHyun22`, `@BNO0`, `@duckddud213`, `@serotonins` |
 | Java 5팀 | `@KangHyojin1401`, `@daehwa-park`, `@diarlee`, `@skyungg` |
+
+♥️ 모든 분들의 취뽀를 기원합니다.
+♥️ 언제든 찾아주세요.
